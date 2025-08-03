@@ -17,6 +17,9 @@ This tutorial covers the essential concepts of Go with simple, well-documented e
 - Loops (`for`, `range`)
 - Control Statements (`break`, `continue`, `goto`)
 - Functions
+- Methods
+- Defer
+- File Handling
 
 
 ## Getting Started
